@@ -1,8 +1,8 @@
-# Form Validation System
+# Formulario de Validación con React + TypeScript + Zod
 
 Sistema completo de validación de formularios construido con React, TypeScript y Zod. Implementa validaciones en tiempo real, manejo de errores por campo y componentes reutilizables con un custom hook genérico para gestión de formularios.
 
-## Características
+## Tecnologías
 
 - Validación en tiempo real con feedback inmediato al usuario
 - 11 campos de formulario con reglas de validación específicas
@@ -14,7 +14,7 @@ Sistema completo de validación de formularios construido con React, TypeScript 
 - Tipado estricto con TypeScript
 - Integración con Zod para esquemas de validación
 
-## Stack Tecnológico
+## Instalación
 
 | Tecnología | Versión | Propósito |
 |-----------|---------|-----------|
