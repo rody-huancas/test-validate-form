@@ -1,8 +1,8 @@
-# 📋 Formulario de Validación con React + TypeScript + Zod
+# Formulario de Validación con React + TypeScript + Zod
 
 Formulario con validaciones utilizando React, TypeScript, Zod y un custom hook reutilizable.
 
-## 📦 Tecnologías
+## Tecnologías
 
 - React
 - TypeScript
@@ -11,7 +11,7 @@ Formulario con validaciones utilizando React, TypeScript, Zod y un custom hook r
 - React Icons
 - Vite
 
-## 🛠️ Instalación
+## Instalación
 
 ### 1. Clonar el repositorio
 
